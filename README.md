@@ -7,11 +7,8 @@ My main focus on this project was the following:
 
 Here are a few screenshots of the final result.
 
-Product Page
 <img src="https://i.ibb.co/p3VvKVs/bike-Products.png" alt="bike-Products" border="0" />
 
-Product Details Page
 <img src="https://i.ibb.co/CndS1LD/detail-Bike.png" alt="detail-Bike" border="0" />
 
-Contact Page
 <img src="https://i.ibb.co/GTqx2Xx/contact-Page.png" alt="contact-Page" border="0" />
